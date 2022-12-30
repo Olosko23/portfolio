@@ -15,7 +15,7 @@ const Home = () => {
             like React, Next JS, Tailwind CSS and Material UI.
           </p>
           <div className="">
-            <Link to="portfolio" smooth duration={500} className=" group text-gray-300 w-fit px-6 py-3 my-2 flex items-center rounded-md bg-black">
+            <Link to="portfolio" smooth duration={500} className=" cursor-pointer  group text-gray-300 w-fit px-6 py-3 my-2 flex items-center rounded-md bg-black">
               Portfolio <span className="group-hover:rotate-90 duration-300 ml-2"><CgArrowRight /></span>
             </Link>
           </div>
