@@ -2,10 +2,10 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <div className="bg-gradient-to-b from-gray-800 to-black ">
+    <div className="bg-blue-900">
         <div className="flex flex-row py-6 px-10 justify-center">
             <div>
-                <p className="text-white">Developed by using React and Tailwind CSS</p>
+                <p className="text-gray-300">Developed using React and Tailwind CSS</p>
             </div>
         </div>
     </div>
